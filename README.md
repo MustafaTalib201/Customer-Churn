@@ -1,0 +1,51 @@
+🧹 1️⃣ Data Cleaning & Preparation — PostgreSQL & Excel
+
+Imported and structured raw customer data into PostgreSQL
+
+Performed missing value treatment, duplicate removal, and created calculated revenue features
+
+Used SQL queries to filter, group, and standardize key variables like tenure, payment method, and contract type
+
+Validated outputs in Excel before loading into Power BI
+
+📊 2️⃣ Business Intelligence Storytelling — Power BI
+
+Designed an interactive dashboard with multiple pages that explores what drives churn.
+
+Key insights discovered:
+
+🔹 Customers using Fiber Optic services have the highest churn risk
+🔹 Monthly charges above $60 strongly correlate with churn
+🔹 Most churned users are newer customers (low tenure)
+🔹 Majority are not senior citizens — churn isn’t driven by age
+🔹 Month-to-Month contracts show extremely high churn
+🔹 Customers paying via Electronic Check are most likely to leave
+
+These findings clearly indicate pricing sensitivity + service dissatisfaction in early months + lack of contract lock-in.
+
+I visualized churn patterns across services, demography, revenue, and contract structure — making it easy for business users to act on retention strategies.
+
+🤖 3️⃣ Machine Learning — Python (LightGBM)
+
+To quantify churn risk, I built a predictive model using:
+
+LightGBM classifier with tuned hyperparameters
+
+Train/Test split for performance evaluation
+
+Feature importance analysis to identify the strongest drivers
+
+The model highlighted top predictors:
+✔ Contract Type
+✔ Monthly Charges
+✔ Tenure
+✔ Internet Service Type
+✔ Payment Method
+
+This gives the company a powerful early-warning churn detection system.
+
+🎯 Project Outcomes
+
+📌 Clear business insights to reduce churn through better pricing & long-term contracts
+📌 Predictive intelligence to target at-risk customers
+📌 Final BI dashboard ties the analysis into a decision-ready product
