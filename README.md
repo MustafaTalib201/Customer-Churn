@@ -46,6 +46,7 @@ This gives the company a powerful early-warning churn detection system.
 <img width="1335" height="740" alt="image" src="https://github.com/user-attachments/assets/9dabdc7a-c32e-495b-9ec9-e5e84bdcd5b3" />
 <img width="1587" height="736" alt="image" src="https://github.com/user-attachments/assets/a19e7280-cfd5-4e9f-9fa2-e6255038f7e3" />
 <img width="1583" height="732" alt="image" src="https://github.com/user-attachments/assets/e0d26530-95ab-46b4-b63b-50099daa0b26" />
+<img width="1152" height="572" alt="image" src="https://github.com/user-attachments/assets/319b3343-b22a-45b0-abb6-10dbc32495cd" />
 
 
 
